@@ -1,8 +1,4 @@
-# python_programs_basics
-
-# python_programs 
-
-
+# python_programs_basics 
 
 
 ## Screenshots
